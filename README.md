@@ -7,6 +7,7 @@
 
 # Overview
 A normalised banking database supporting customer accounts, transactions, and loan management. Designed to 2NF with referential integrity constraints.
+- "tables.txt" contains the SQL
 
 # Schema
 - **Customers** – Personal details (100 records)
